@@ -164,6 +164,3 @@ For testing, you can use:
 
 Or create your own account by clicking "Sign up" on the login page.
 
-## Need Help?
-
-If you have questions or problems, please email support@quotely.com
